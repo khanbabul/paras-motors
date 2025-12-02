@@ -43,13 +43,13 @@ const Contact = () => {
     {
       icon: <Phone className="w-6 h-6" />,
       title: "Phone",
-      details: "(+92) 329 3187459",
+      details: "(+92) 333 2500386",
       subtitle: "Call us anytime"
     },
     {
       icon: <Mail className="w-6 h-6" />,
       title: "Email",
-      details: "parasmotorworks@gmail.com",
+      details: "parasmoter786@gmail.com",
       subtitle: "Send us a message"
     },
     {
