@@ -176,13 +176,13 @@ const Footer = () => {
             </div>
             
             <div className="flex items-center space-x-6">
-              <a href="mailto:devbabulkhan@gmail.com" className="text-gray-400 hover:text-white text-sm transition-colors duration-300">
-                Contact Developer: devbabulkhan@gmail.com
+              <a href="https://wa.me/923483295716" className="text-gray-400 hover:text-white text-sm transition-colors duration-300">
+                Contact Developer: +923483295716
               </a>
-              <a href="./policy.html" className="text-gray-400 hover:text-white text-sm transition-colors duration-300">
+              <a href="https://khanbabul.github.io/paras-motors/policy.html" className="text-gray-400 hover:text-white text-sm transition-colors duration-300">
                 Privacy Policy
               </a>
-              <a href="./terms.html" className="text-gray-400 hover:text-white text-sm transition-colors duration-300">
+              <a href="https://khanbabul.github.io/paras-motors/terms.html" className="text-gray-400 hover:text-white text-sm transition-colors duration-300">
                 Terms of Service
               </a>
               
