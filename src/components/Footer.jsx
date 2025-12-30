@@ -172,7 +172,7 @@ const Footer = () => {
         <div className="container mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="text-gray-400 text-sm mb-4 md:mb-0 hover:text-white transition-colors duration-300">
-              <a href="https://devbabul.vercel.app">Designed with ❤️ by Babul Khan and</a> <a href="https://sutherpreet.vercel.app">Preet </a>
+              <a href="https://devbabul.vercel.app">Designed with ❤️ by Babul Khan and</a> <a href="https://suthernitesh.vercel.app">Nitesh</a>
             </div>
             
             <div className="flex items-center space-x-6">
