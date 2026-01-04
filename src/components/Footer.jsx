@@ -179,10 +179,10 @@ const Footer = () => {
               <a href="https://wa.me/923483295716" className="text-gray-400 hover:text-white text-sm transition-colors duration-300">
                 Contact Developer: +923483295716
               </a>
-              <a href="./policy.html" className="text-gray-400 hover:text-white text-sm transition-colors duration-300">
+              <a href="./policy.html" target="_blank" className="text-gray-400 hover:text-white text-sm transition-colors duration-300">
                 Privacy Policy
               </a>
-              <a href="./terms.html" className="text-gray-400 hover:text-white text-sm transition-colors duration-300">
+              <a href="./terms.html" target="_blank" className="text-gray-400 hover:text-white text-sm transition-colors duration-300">
                 Terms of Service
               </a>
               
